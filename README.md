@@ -1,2 +1,2 @@
-# shop
-An Ecommerce application written with codeigniter.
+# shopping
+Sebuah aplikasi web menggunakan CI untuk penjualan
